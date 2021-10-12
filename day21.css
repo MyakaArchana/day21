@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTfT7qm31SHDOyRBMW78wTSwdbmotm4Lth_g&usqp=CAU");
+}
+#one{
+  margin: 30px;  
+  padding-top: 250px;
+  text-align: center;
+  font-size: 80px;
+  color: rgb(36, 13, 167);
+}
